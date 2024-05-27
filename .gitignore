@@ -1,0 +1,12 @@
+.idea
+/.env/
+/.venv/
+/env/
+/build/
+/dist/
+.pytest_cache
+/logs/
+/output
+/data/
+/videos/
+/worms.egg-info/
